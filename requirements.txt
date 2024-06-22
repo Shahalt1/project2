@@ -1,0 +1,15 @@
+# requirements.txt
+
+# Graphics and SVG handling
+cairosvg
+Pillow
+
+# G-code generation and parsing
+gcodeparser
+svg_to_gcode
+
+# GUI and visualization
+tk
+
+# Additional utilities
+turtle
